@@ -1,0 +1,13 @@
+diffusers==0.27.2
+transformers>=4.38.0
+accelerate>=0.27.0
+safetensors>=0.4.2
+huggingface_hub==0.24.6
+Pillow>=10.2.0
+imageio>=2.34.0
+imageio-ffmpeg>=0.5.1
+numpy>=1.24.0
+
+# IMPORTANT: Install PyTorch separately with the right CUDA build.
+# See: https://pytorch.org/get-started/locally/
+
